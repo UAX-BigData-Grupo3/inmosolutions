@@ -1,6 +1,9 @@
+---
 site_name: Transformación tecnológica de la empresa Inmosolutions
-#site_url:
-site_description: Diseñar e implementar la unidad de DevOps de una organización siguiendo los lineamientos establecidos en el modelo SRE. Se debe contemplar la implementación desde el punto de vista organizacional hasta la especificación del stack tecnológico a desarrollar.
+# site_url:
+site_description: Diseñar e implementar la unidad de DevOps de una organización siguiendo los 
+lineamientos establecidos en el modelo SRE. Se debe contemplar la implementación desde el 
+punto de vista organizacional hasta la especificación del stack tecnológico a desarrollar.
 site_author: Grupo3
 repo_name: UAX-BigData-Grupo3/inmosolutions
 
