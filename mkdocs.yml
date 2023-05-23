@@ -6,11 +6,11 @@ repo_name: UAX-BigData-Grupo3/inmosolutions
 
 repo_url: https://github.com/UAX-BigData-Grupo3/inmosolutions
 nav:
-  - Inicio: "01-index.md"
-  - Modelo actual: "02-modelo_actual.md"
-  - Retos planteados: "03-retos_planteados.md"
-  - Objetivos de futuro: "04-objetivos_futuro.md"
-  - Solución propuesta: "05-solucion_propuesta.md"
+  - Inicio: "01_index.md"
+  - Modelo actual: "02_modelo_actual.md"
+  - Retos planteados: "03_retos_planteados.md"
+  - Objetivos de futuro: "04_objetivos_futuro.md"
+  - Solución propuesta: "05_solucion_propuesta.md"
 plugins:
   - search:
       lang: es
