@@ -6,16 +6,18 @@ repo_name: UAX-BigData-Grupo3/inmosolutions
 
 repo_url: https://github.com/UAX-BigData-Grupo3/inmosolutions
 nav:
-  - Inicio: "index.md"
-  - Modelo actual: "modelo.md"
-  - Modelo futuro: "tecnologias.md"
-  - Propuesta de solución: "solucion.md"
+  - Inicio: "01-index.md"
+  - Modelo actual: "02-modelo_actual.md"
+  - Retos planteados: "03-retos_planteados.md"
+  - Objetivos de futuro: "04-objetivos_futuro.md"
+  - Solución propuesta: "05-solucion_propuesta.md"
 plugins:
   - search:
       lang: es
 theme:
   name: material
   logo: assets/uax.png
+  favicon: assets/favicon.ico
   palette:
     # Palette toggle for light mode
     - scheme: default
