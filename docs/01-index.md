@@ -4,7 +4,7 @@ Su misión es ayudar a InmoSolutions a diseñar e implementar su unidad de DevOp
 
 ## Aspectos a tener en cuenta
 
-### Definición de SLI, SLO y SLA basados en los siguientes tipos de indicadores (al menos dos por cada uno)
+### Definición de SLI, SLO y SLA
 
 - Latencia de solicitud
 - Tasa de error
@@ -12,7 +12,7 @@ Su misión es ayudar a InmoSolutions a diseñar e implementar su unidad de DevOp
 - Disponibilidad
 - Durabilidad
 
-### Definición los distintos procesos y sus flujos de trabajo a ser desarrollados por el equipo. Por ejemplo:
+### Definición los distintos procesos y sus flujos de trabajo
 
 - Servicio de Guardias.
 - Resolución de incidencias.
@@ -20,7 +20,7 @@ Su misión es ayudar a InmoSolutions a diseñar e implementar su unidad de DevOp
 - Documentación del Postmortem
 - Formación del personal
 
-### Definición los skills necesarios que debe tener el equipo SRE.
+### Skills necesarios
 
 ### Definición las tareas a ser desarrolladas por los diferentes roles.
 
@@ -28,4 +28,4 @@ Su misión es ayudar a InmoSolutions a diseñar e implementar su unidad de DevOp
 
 ### Proceso de identificación de tareas rutinarias y su posible automatización.
 
-### Para el caso del stack tecnológico, especificar las tecnologías a utilizar y la forma que se integran. Se puede utilizar como referencia la arquitectura desarrollada en clases.
+### Para el caso del stack tecnológico, especificar las tecnologías a utilizar y la forma que se integran.
