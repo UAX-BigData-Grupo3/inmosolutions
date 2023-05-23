@@ -18,7 +18,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material=="9.1.12"
       - run: mkdocs gh-deploy --force
       - name: Bump version and push tag
         uses: anothrNick/github-tag-action@1.55.0
