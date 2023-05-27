@@ -172,6 +172,34 @@ En Inmosolutions consideramos que además de adquirir conocimientos teóricos, l
 
 ## Stack tecnológico
 
-```
+Se propone el siguiente stack tecnológico para implementar la unidad Devops:
 
-```
+**_Control de versiones_**:
+**_GitHub_**: Es una plataforma de control de versiones distribuido basado en Git. Permite almacenar y gestionar el código fuente de manera colaborativa, facilitando la colaboración entre desarrolladores y el seguimiento de cambios en el código. 
+GitHub se puede utilizar como repositorio de código para almacenar y gestionar el código fuente de las aplicaciones de InmoSolutions. Los equipos de desarrollo pueden colaborar, revisar y realizar seguimiento de los cambios en el código a través de ramas, pull requests y comentarios.
+
+**_Gestión de la nube:_**
+**_Azure:_** Es una plataforma de servicios en la nube de Microsoft. Proporciona una amplia gama de servicios, como infraestructura escalable, almacenamiento, bases de datos, servicios de aplicaciones, redes y más. Azure se utiliza para alojar y desplegar las aplicaciones de InmoSolutions en la nube. 
+Se puede utilizar para implementar y hospedar las aplicaciones de InmoSolutions en entornos cloud. Ofrece servicios como máquinas virtuales, bases de datos, servicios de aplicaciones, almacenamiento, entre otros, que son necesarios para desplegar y escalar las aplicaciones de forma segura y confiable.
+
+**_Gestión de dependencias y construcción:_**
+**_Maven:_** Es una herramienta de gestión de dependencias y construcción de proyectos en Java. Maven permite definir y gestionar las dependencias del proyecto a través de un archivo de configuración (pom.xml). También automatiza el proceso de compilación, prueba y generación de artefactos, lo que facilita la construcción de proyectos de forma coherente y reproducible.
+Maven se puede utilizar para construir, gestionar dependencias y generar los artefactos de las aplicaciones de InmoSolutions. Permite definir y mantener un proyecto de manera estructurada, gestionar las dependencias de bibliotecas y automatizar el proceso de compilación y empaquetado de las aplicaciones.
+
+**_Integración continua y entrega continua:_**
+**_Jenkins:_** Es una herramienta de automatización de integración continua y entrega continua (CI/CD). Jenkins permite la configuración de pipelines de construcción y despliegue, donde se pueden definir pasos y tareas automatizadas, como la compilación del código, ejecución de pruebas, análisis estático, creación de artefactos y despliegue en entornos de desarrollo, prueba y producción. Jenkins se puede utilizar para configurar y ejecutar pipelines de integración continua que automatizan las tareas de compilación, prueba y despliegue de las aplicaciones de InmoSolutions. Facilita la detección temprana de errores, garantiza la calidad del código y agiliza la entrega de nuevas funcionalidades al automatizar los procesos de construcción y despliegue.
+
+**_Contenedorización y despliegue:_**
+**_Tomcat:_** Es un servidor de aplicaciones web Java que permite ejecutar y desplegar aplicaciones basadas en tecnología Java Servlet y JavaServer Pages (JSP). Tomcat proporciona un entorno de ejecución para aplicaciones Java y permite el despliegue sencillo de aplicaciones web.
+Tomcat se puede utilizar como servidor de aplicaciones para implementar y ejecutar las aplicaciones backend de InmoSolutions desarrolladas con tecnología Java. Proporciona un entorno de ejecución estable y escalable para las aplicaciones web y permite gestionar el despliegue y la administración de las aplicaciones en los diferentes entornos.
+
+**_Gestión de artefactos:_**
+**_Artifactory:_** Es un repositorio de artefactos empresarial que permite almacenar y gestionar de forma segura los artefactos generados durante el proceso de construcción de software. Artifactory es utilizado para gestionar las dependencias de las aplicaciones, como bibliotecas, JAR, WAR, Docker images, y garantizar su disponibilidad y trazabilidad.
+ Artifactory se puede utilizar como repositorio de artefactos para almacenar y gestionar los artefactos generados por Maven durante el proceso de construcción de las aplicaciones de InmoSolutions. Proporciona un lugar centralizado para almacenar y distribuir los artefactos, lo que facilita la gestión de versiones y la reutilización de componentes.
+
+**_Análisis estático de código:_**
+**_SonarQube:_** Es una plataforma de análisis estático de código que proporciona métricas y análisis detallados sobre la calidad del código. SonarQube permite identificar problemas de código, vulnerabilidades, duplicaciones y malas prácticas. Ayuda a mantener un alto nivel de calidad en el código fuente y promueve buenas prácticas de desarrollo.
+SonarQube se puede utilizar para analizar y evaluar la calidad del código de las aplicaciones de InmoSolutions. Permite identificar y corregir problemas de código, mantener un estándar de calidad en el desarrollo y mejorar la seguridad y el rendimiento de las aplicaciones.
+
+Estas tecnologías se complementan entre sí para permitir la automatización de procesos, el despliegue ágil y confiable de aplicaciones, el control de calidad del código y la gestión eficiente de dependencias y artefactos. La combinación de estas herramientas en el stack tecnológico propuesto proporciona una base sólida para implementar prácticas de DevOps en InmoSolutions y lograr los objetivos establecidos.
+
