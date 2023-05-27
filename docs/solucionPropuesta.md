@@ -168,7 +168,45 @@ En Inmosolutions consideramos que además de adquirir conocimientos teóricos, l
 
 ## Monitorización
 
+La estrategia de monitorización siguiendo los lineamientos establecidos en el modelo SRE para la propuesta de InmoSolutions es la siguiente:
+
+- Definir métricas clave para medir la disponibilidad y el rendimiento de las aplicaciones, así como establecer objetivos específicos para cada métrica.
+
+- Implementar una insfraestrucutra de monitorización para recopilar y visualizar datos de rendimiento y disponibilidad de las aplicaciones. Además, se deben configurar alertas para notificar al equipo cuando se superen los umbrales establecidos. Para ello se hará uso de dos herramientas: **Prometheus** y **Grafana**.
+
+**Prometheus**: es una herramienta de monitoreo de datos de código abierto.Consta de varios componentes como un servidor para consultar y almacenar las series de datos, un Pushgateway para permitir que los trabajos efímeros y por lotes expongan sus métricas, exporters útiles para casos donde no es factible instrumentar un sistema dado con métricas directamente, un sistema de manejo de alarmado y un sistema de discovery.
+
+En Prometheus, todos los datos se almacenan como series de tiempo. Cada serie de tiempo se identifica de forma única por su nombre de indicador y un conjunto de pares clave-valor, también conocidos como “labels”. Y los tipos de métricas utilizados son: counter, es una métrica acumulativa que representa un solo contador cuyo valor puede solamente incrementar o reiniciar a cero; gauge, es una métrica que representa un solo valor numeral que puede arbitrariamente subir o bajar; y histogram, muestrea las observaciones y las cuenta en categorías configurables proporcionando también una suma de todos los valores observados.
+
+**Grafana**: es una plataforma interactiva y open source de visualización de datos desarrollada por Grafana Labs. Dicha plataforma permite a los usuarios ver sus datos a través de tablas y gráficos que se unifican en un panel de control (o en varios) para facilitar la interpretación y la comprensión. También permite realizar consultas y configurar avisos sobre la información y los indicadores desde el lugar en el que se almacena dicha información. De esta forma, se podrá analizar los datos e identificar las tendencias y las inconsistencias con mayor facilidad, por lo que los procesos serán más eficientes.
+
+En el caso que compete, se hará uso de Prometheus como backend de los datos almacenados y se utilizará como origen en Grafana, donde se realizarán las visualizaciones oportunas para tener una monitorización clara. Además, en el sistema de Alertmanager de Grafana se crearán las alertas oportunas que permitirán una rápida detección de fallos o de excesión de los umbrales definidos.
+
+- Monitorizar la infraestructura y los servicios subyacentes: Supervisar los recursos de la infraestructura y monitorizar también los servicios utilizados por las aplicaciones y los servicios de autenticación y autorización (OAuth2), para asegurarse de que estén disponibles y funcionando correctamente.
+
+- Realizar pruebas de carga y estrés: Ejecutar pruebas de carga y estrés para evaluar el rendimiento de las aplicaciones bajo cargas de trabajo intensas. Así, se podrá identificar los cuellos de botella y los puntos débiles en la infraestructura y las aplicaciones, y tomar medidas para mejorar su rendimiento y escalabilidad.
+
+- Implementar registros y análisis de registros: Configurar sistemas de registro (logs) para recopilar información sobre el comportamiento de las aplicaciones y la infraestructura. 
+
 ## Automatización
+
+El proceso de identificación de tareas rutinarias y su posible automatización sigue los siguientes pasos:
+
+- Análisis de las tareas rutinarias: Identificar y listar las tareas que se realizan de forma repetitiva en el equipo de operaciones. En este caso, algunas tareas mencionadas son: gestionar solicitudes de variación de cuotas, aplicar cambios en esquemas de bases de datos, revisar alertas de monitorización, realizar liberaciones de Releases manuales, reinicios manuales y extracción manual de datos, entre otras.
+
+- Priorización de tareas: Evaluar la importancia y frecuencia de cada tarea rutinaria para determinar cuáles son las más críticas o que requieren más tiempo y esfuerzo. Esto permitirá priorizar las tareas que podrían beneficiarse más de la automatización.
+
+- Evaluación de la viabilidad de automatización: Analizar cada tarea identificada y evaluar su grado de automatización posible. Algunas tareas pueden ser fácilmente automatizables, mientras que otras pueden requerir más esfuerzo y recursos para implementar la automatización.
+
+- Diseño y desarrollo de soluciones automatizadas: Para las tareas identificadas como viables para la automatización, diseñar y desarrollar soluciones automatizadas. Esto puede implicar el uso de scripts, herramientas de automatización, configuraciones programáticas, integración con APIs, entre otros.
+
+- Pruebas y validación: Realizar pruebas exhaustivas de las soluciones automatizadas para garantizar su correcto funcionamiento. Esto implica verificar que las tareas se realicen de manera precisa, eficiente y sin errores.
+
+- Implementación y despliegue: Introducir gradualmente las soluciones automatizadas en el entorno de producción. Es importante planificar cuidadosamente la implementación para minimizar el impacto en el funcionamiento actual y asegurar una transición fluida.
+
+- Monitoreo y seguimiento: Establecer mecanismos de monitoreo y seguimiento de las tareas automatizadas para detectar posibles problemas o mejoras. Esto puede incluir el uso de métricas, registros y alertas para asegurar que la automatización está funcionando correctamente y proporcionando los resultados esperados.
+
+- Mejora continua: A medida que se automatizan tareas rutinarias, es importante buscar constantemente oportunidades para mejorar y optimizar el proceso de automatización. Esto implica recibir retroalimentación de los equipos involucrados, recopilar métricas de rendimiento y buscar formas de optimizar aún más las tareas automatizadas.
 
 ## Stack tecnológico
 
