@@ -164,66 +164,66 @@ En Inmosolutions consideramos que ademÃ¡s de adquirir conocimientos teÃ³ricos, l
 
 ## Skills necesarios
 
-A continuación, se desglosan y se explican los skills clave que el equipo SRE de Innosolutions debe poseer para trabajar de manera eficaz y eficiente:
+A continuaciÃ³n, se desglosan y se explican los skills clave que el equipo SRE de Innosolutions debe poseer para trabajar de manera eficaz y eficiente:
 
-- Conocimientos Técnicos
+- Conocimientos TÃ©cnicos
 
-Los miembros del equipo de DevOps deben tener sólidos conocimientos técnicos. Estos conocimientos incluyen la programación y el scripting, la administración de sistemas, la gestión de redes y la seguridad de la información. La programación es fundamental para automatizar tareas, mejorar procesos y desarrollar nuevas funcionalidades en las soluciones que Inmosolutions comercializa. (COMMENT: que lenguajes)
+Los miembros del equipo de DevOps deben tener sÃ³lidos conocimientos tÃ©cnicos. Estos conocimientos incluyen la programaciÃ³n y el scripting, la administraciÃ³n de sistemas, la gestiÃ³n de redes y la seguridad de la informaciÃ³n. La programaciÃ³n es fundamental para automatizar tareas, mejorar procesos y desarrollar nuevas funcionalidades en las soluciones que Inmosolutions comercializa. (COMMENT: que lenguajes)
 
-Por otro lado, las competencias en administración de sistemas son esenciales para gestionar y mantener las infraestructuras tecnológicas de la empresa. Esto implica entender cómo funcionan los sistemas operativos, cómo se gestionan los recursos y cómo se solucionan los problemas. (COMMENT: Linux, que cloud???)
+Por otro lado, las competencias en administraciï¿½n de sistemas son esenciales para gestionar y mantener las infraestructuras tecnolÃ³gicas de la empresa. Esto implica entender cÃ³mo funcionan los sistemas operativos, cÃ³mo se gestionan los recursos y cÃ³mo se solucionan los problemas. (COMMENT: Linux, que cloud???)
 
-En cuanto a la gestión de redes, se necesita para garantizar que los datos fluyen de manera efectiva entre los diferentes componentes del sistema. Y en relación con la seguridad de la información, se debe garantizar que los datos de la empresa y de sus clientes están protegidos en todo momento.
+En cuanto a la gestiÃ³n de redes, se necesita para garantizar que los datos fluyen de manera efectiva entre los diferentes componentes del sistema. Y en relaciÃ³n con la seguridad de la informaciÃ³n, se debe garantizar que los datos de la empresa y de sus clientes estÃ¡n protegidos en todo momento.
 
 - Ciclo de Vida del Software
 
-Otra habilidad fundamental para un equipo de DevOps es la comprensión del ciclo de vida del software. Los miembros del equipo deben entender las distintas etapas del desarrollo de software, desde la concepción inicial, el diseño, la codificación, la prueba, el despliegue hasta el mantenimiento y la eventual retirada o reemplazo.
+Otra habilidad fundamental para un equipo de DevOps es la comprensiÃ³n del ciclo de vida del software. Los miembros del equipo deben entender las distintas etapas del desarrollo de software, desde la concepciÃ³n inicial, el diseÃ±o, la codificaciÃ³n, la prueba, el despliegue hasta el mantenimiento y la eventual retirada o reemplazo.
 
-Es crucial para un equipo de DevOps tener un entendimiento completo del ciclo de vida del software para facilitar la comunicación y colaboración con otros equipos como desarrollo y pruebas, así como para mejorar los procesos y prácticas a lo largo de todo el ciclo de vida.
+Es crucial para un equipo de DevOps tener un entendimiento completo del ciclo de vida del software para facilitar la comunicaciÃ³n y colaboraciÃ³n con otros equipos como desarrollo y pruebas, asÃ­ como para mejorar los procesos y prÃ¡cticas a lo largo de todo el ciclo de vida.
 
 - Experiencia con Herramientas de DevOps
 
-Los miembros del equipo de DevOps deben estar familiarizados con una variedad de herramientas utilizadas en la metodología DevOps. Estas herramientas pueden incluir sistemas de control de versiones como Git, sistemas de integración continua y despliegue continuo (CI/CD) como Jenkins, herramientas de gestión de configuración como Ansible, Docker para la contenerización y Kubernetes para la orquestación de contenedores, entre otras. (COMMENT: Concretarlo para un caso real??)
+Los miembros del equipo de DevOps deben estar familiarizados con una variedad de herramientas utilizadas en la metodologÃ­a DevOps. Estas herramientas pueden incluir sistemas de control de versiones como Git, sistemas de integraciÃ­n continua y despliegue continuo (CI/CD) como Jenkins, herramientas de gestiÃ³n de configuraciÃ³n como Ansible, Docker para la contenerizaciÃ³n y Kubernetes para la orquestaciÃ³n de contenedores, entre otras. (COMMENT: Concretarlo para un caso real??)
 
 
-- Habilidades de Colaboración y Comunicación
+- Habilidades de ColaboraciÃ³n y ComunicaciÃ³n
 
-El objetivo central de DevOps es mejorar la colaboración entre los equipos de desarrollo y operaciones. Por tanto, las habilidades de colaboración y comunicación son fundamentales. Los miembros del equipo deben ser capaces de trabajar en equipo, compartir conocimientos, comunicarse de manera efectiva y resolver conflictos de manera constructiva. Teniendo en cuenta la expansión hacia el mercado americano, estas habilidades y competencias deben permitir comunicación en Inglés.
+El objetivo central de DevOps es mejorar la colaboraciÃ³n entre los equipos de desarrollo y operaciones. Por tanto, las habilidades de colaboraciÃ³n y comunicaciÃ³n son fundamentales. Los miembros del equipo deben ser capaces de trabajar en equipo, compartir conocimientos, comunicarse de manera efectiva y resolver conflictos de manera constructiva. Teniendo en cuenta la expansiÃ³n.
 
 - Mentalidad de Mejora Continua
 
-Por último, pero no menos importante, un equipo de DevOps debe tener una mentalidad de mejora continua. Esto significa que están siempre buscando maneras de mejorar los procesos, las prácticas, las herramientas y las soluciones. Esta mentalidad es esencial para mantener a Inmosolutions a la vanguardia del mercado inmobiliario. (COMMENT: Ponemos algún premio para fomentar la propuestas de mejoras??)
+Por Ãºltimo, pero no menos importante, un equipo de DevOps debe tener una mentalidad de mejora continua. Esto significa que estÃ¡n siempre buscando maneras de mejorar los procesos, las prÃ¡cticas, las herramientas y las soluciones. Esta mentalidad es esencial para mantener a Inmosolutions a la vanguardia del mercado inmobiliario. (COMMENT: Ponemos algÃºn premio para fomentar la propuestas de mejoras??)
 
 ## Tareas por roles
 
-A continuación se detallan los roles, tareas y requisitos para el puesto de SRE en Inmosolutions:
+A continuaciÃ³n se detallan los roles, tareas y requisitos para el puesto de SRE en Inmosolutions:
 
 - Roles del Equipo SRE:
 
-**Ingeniero SRE:** El rol principal en un equipo de SRE, estos ingenieros son responsables de la confiabilidad y el buen funcionamiento de los servicios y productos de la empresa. Se espera que tengan una mentalidad orientada al desarrollo y la operación.
+**Ingeniero SRE:** El rol principal en un equipo de SRE, estos ingenieros son responsables de la confiabilidad y el buen funcionamiento de los servicios y productos de la empresa. Se espera que tengan una mentalidad orientada al desarrollo y la operaciÃ³n.
 
-**Gerente de SRE:** Este es un rol de liderazgo en el equipo, que supervisa a los SREs y se asegura de que el equipo esté funcionando eficazmente y cumpliendo sus objetivos. El Gerente de SRE también actúa como punto de contacto entre el equipo de SRE y otros equipos y stakeholders dentro de la empresa.
+**Gerente de SRE:** Este es un rol de liderazgo en el equipo, que supervisa a los SREs y se asegura de que el equipo estÃ¡ funcionando eficazmente y cumpliendo sus objetivos. El Gerente de SRE tambien actÃºa como punto de contacto entre el equipo de SRE y otros equipos y stakeholders dentro de la empresa.
 
-**Ingeniero de Producto SRE:** Este rol se centra más en el lado del desarrollo de software del SRE, trabajando estrechamente con los equipos de desarrollo para diseñar y construir sistemas y funciones que sean confiables y escalables.
+**Ingeniero de Producto SRE:** Este rol se centra mÃ¡s en el lado del desarrollo de software del SRE, trabajando estrechamente con los equipos de desarrollo para diseÃ±ar y construir sistemas y funciones que sean confiables y escalables.
 
 - Tareas de un Equipo SRE:
 
-**Mantenimiento y Mejora de la Confiabilidad del Sistema:** Esto puede incluir la supervisión de los sistemas, la detección y solución de problemas, y la implementación de mejoras para aumentar la confiabilidad y eficiencia del sistema.
+**Mantenimiento y Mejora de la Confiabilidad del Sistema:** Esto puede incluir la supervisiÃ³n de los sistemas, la detecciÃ³n y resoluciÃ³n de problemas, y la implementaciÃ³n de mejoras para aumentar la confiabilidad y eficiencia del sistema.
 
-**Desarrollo e Implementación de Software:** Los SREs a menudo trabajan en el desarrollo de software, construyendo nuevas funciones y mejoras para los sistemas existentes.
+**Desarrollo e ImplementaciÃ³n de Software:** Los SREs a menudo trabajan en el desarrollo de software, construyendo nuevas funciones y mejoras para los sistemas existentes.
 
-**Planificación y Ejecución de Cambios:** Los SREs estarán involucrados en la planificación y ejecución de cambios en los sistemas y la infraestructura de la empresa, como la implementación de nuevas tecnologías o la migración a nuevas plataformas.
+**PlanificaciÃ³n y EjecuciÃ³n de Cambios:** Los SREs estarÃ¡n involucrados en la planificaciÃ³n y ejecuciÃ³n de cambios en los sistemas y la infraestructura de la empresa, como la implementaciÃ³n de nuevas tecnologÃ­as o la migraciÃ³n a nuevas plataformas.
 
-**Colaboración con Otros Equipos:** Los SREs deben trabajar estrechamente con otros equipos dentro de la empresa y terceros, incluyendo equipos de desarrollo, operaciones, soporte y gestión de productos.
+**ColaboraciÃ³n con Otros Equipos:** Los SREs deben trabajar estrechamente con otros equipos dentro de la empresa y terceros, incluyendo equipos de desarrollo, operaciones, soporte y gestiÃ³n de productos.
 
 - Requisitos del Puesto:
 
-**Experiencia:** Los roles de ingeniero de SRE requieren al menos 3-5 años de experiencia trabajando en un entorno de TI, con experiencia específica en roles de desarrollo de software y/o operaciones de TI. Para roles de liderazgo, como el Gerente de SRE, se requiere que los candidatos tengan al menos 5-7 años de experiencia, incluyendo experiencia en la gestión de equipos.
+**Experiencia:** Los roles de ingeniero de SRE requieren al menos 3-5 aÃ±os de experiencia trabajando en un entorno de TI, con experiencia especÃ­fica en roles de desarrollo de software y/o operaciones de TI. Para roles de liderazgo, como el Gerente de SRE, se requiere que los candidatos tengan al menos 5-7 aÃ±os de experiencia, incluyendo experiencia en la gestiÃ³n de equipos.
 
-**Habilidades Técnicas:** Los SREs deben tener sólidas habilidades técnicas, incluyendo la programación (preferentemente en lenguajes como Python, Go o Java), la administración de sistemas, la gestión de redes, la seguridad de la información y el uso de herramientas de DevOps como Git, Docker y Kubernetes. También deben tener experiencia en la monitorización y el diagnóstico de problemas de sistemas a gran escala.
+**Habilidades TÃ©cnicas:** Los SREs deben tener sÃ³lidas habilidades tÃ©cnicas, incluyendo la programaciÃ³n (preferentemente en lenguajes como Python, Go o Java), la administraciÃ³n de sistemas, la gestiÃ³n de redes, la seguridad de la informaciÃ³n y el uso de herramientas de DevOps como Git, Docker y Kubernetes. TambiÃ©n deben tener experiencia en la monitorizaciÃ³n y el diagnÃ³stico de problemas de sistemas a gran escala.
 
-**Habilidades de Resolución de Problemas:** Los SREs de imnosolutiones deben enfocarse a la solución de problemas, con capacidad para identificar y resolver problemas de manera eficaz y eficiente.
+**Habilidades de ResoluciÃ³n de Problemas:** Los SREs de imnosolutiones deben enfocarse a la soluciÃ³n de problemas, con capacidad para identificar y resolver problemas de manera eficaz y eficiente.
 
-**Habilidades de Comunicación:** Los SREs deben disponer de habilidades de comunicación, ya que necesitarán colaborar estrechamente con otros equipos de innosolutions, clientes y proveedores. 
+**Habilidades de ComunicaciÃ³n:** Los SREs deben disponer de habilidades de comunicaciÃ³n, ya que necesitarÃ¡n colaborar estrechamente con otros equipos de innosolutions, clientes y proveedores. 
 
 ## MonitorizaciÃ³n
 
