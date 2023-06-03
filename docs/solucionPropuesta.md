@@ -168,9 +168,9 @@ A continuación, se desglosan y se explican los skills clave que el equipo SRE d
 
 - Conocimientos Técnicos
 
-Los miembros del equipo de DevOps deben tener sólidos conocimientos técnicos. Estos conocimientos incluyen la programación y el scripting, la administración de sistemas, la gestión de redes y la seguridad de la información. La programación es fundamental para automatizar tareas, mejorar procesos y desarrollar nuevas funcionalidades en las soluciones que Inmosolutions comercializa. (COMMENT: que lenguajes)
+Los miembros del equipo de DevOps deben tener sólidos conocimientos técnicos. Estos conocimientos incluyen la programación y el scripting, la administración de sistemas, la gestión de redes y la seguridad de la información. La programación es fundamental para automatizar tareas, mejorar procesos y desarrollar nuevas funcionalidades en las soluciones que Inmosolutions comercializa.
 
-Por otro lado, las competencias en administraci�n de sistemas son esenciales para gestionar y mantener las infraestructuras tecnológicas de la empresa. Esto implica entender cómo funcionan los sistemas operativos, cómo se gestionan los recursos y cómo se solucionan los problemas. (COMMENT: Linux, que cloud???)
+Por otro lado, las competencias en administraci�n de sistemas son esenciales para gestionar y mantener las infraestructuras tecnológicas de la empresa. Esto implica entender cómo funcionan los sistemas operativos, cómo se gestionan los recursos y cómo se solucionan los problemas.
 
 En cuanto a la gestión de redes, se necesita para garantizar que los datos fluyen de manera efectiva entre los diferentes componentes del sistema. Y en relación con la seguridad de la información, se debe garantizar que los datos de la empresa y de sus clientes están protegidos en todo momento.
 
@@ -182,7 +182,7 @@ Es crucial para un equipo de DevOps tener un entendimiento completo del ciclo de
 
 - Experiencia con Herramientas de DevOps
 
-Los miembros del equipo de DevOps deben estar familiarizados con una variedad de herramientas utilizadas en la metodología DevOps. Estas herramientas pueden incluir sistemas de control de versiones como Git, sistemas de integraciín continua y despliegue continuo (CI/CD) como Jenkins, herramientas de gestión de configuración como Ansible, Docker para la contenerización y Kubernetes para la orquestación de contenedores, entre otras. (COMMENT: Concretarlo para un caso real??)
+Los miembros del equipo de DevOps deben estar familiarizados con una variedad de herramientas utilizadas en la metodología DevOps. Estas herramientas pueden incluir sistemas de control de versiones como Git, sistemas de integraciín continua y despliegue continuo (CI/CD) como Jenkins, herramientas de gestión de configuración como Ansible, Docker para la contenerización y Kubernetes para la orquestación de contenedores, entre otras. 
 
 
 - Habilidades de Colaboración y Comunicación
@@ -191,7 +191,7 @@ El objetivo central de DevOps es mejorar la colaboración entre los equipos de d
 
 - Mentalidad de Mejora Continua
 
-Por último, pero no menos importante, un equipo de DevOps debe tener una mentalidad de mejora continua. Esto significa que están siempre buscando maneras de mejorar los procesos, las prácticas, las herramientas y las soluciones. Esta mentalidad es esencial para mantener a Inmosolutions a la vanguardia del mercado inmobiliario. (COMMENT: Ponemos algún premio para fomentar la propuestas de mejoras??)
+Por último, pero no menos importante, un equipo de DevOps debe tener una mentalidad de mejora continua. Esto significa que están siempre buscando maneras de mejorar los procesos, las prácticas, las herramientas y las soluciones. Esta mentalidad es esencial para mantener a Inmosolutions a la vanguardia del mercado inmobiliario. 
 
 ## Tareas por roles
 
